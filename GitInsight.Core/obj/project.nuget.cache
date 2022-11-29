@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D4YWtpu8LNj0ulBqI+KzZJgo8Iq65nntFdNpB2/+WD+M1wLgT/ljH6KcPXhz57omh7ddPepWGbQbHWbcIUVDJQ==",
+  "dgSpecHash": "z1NEXNokm1XH4SoNBTGC1O93vubO/F/xcv6Gufq/chM2q346yz6laBiB1lXFExl2T7GVypv88FndcVJwcucR6w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bruger\\Desktop\\BDSA\\BDSA_PROJECT\\GitInsight.Core\\GitInsight.Core.csproj",
+  "projectFilePath": "c:\\Users\\Bruger\\Desktop\\BDSA\\BDSA_PROJECT\\GitInsight.Core\\GitInsight.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bruger\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Bruger\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

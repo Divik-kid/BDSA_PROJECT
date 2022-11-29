@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eikbo\\Skrivebord\\BDSA\\BDSA_PROJECT\\PlaywrightTests\\PlaywrightTests.csproj": {}
+    "c:\\Users\\Bruger\\Desktop\\BDSA\\BDSA_PROJECT\\PlaywrightTests\\PlaywrightTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eikbo\\Skrivebord\\BDSA\\BDSA_PROJECT\\PlaywrightTests\\PlaywrightTests.csproj": {
+    "c:\\Users\\Bruger\\Desktop\\BDSA\\BDSA_PROJECT\\PlaywrightTests\\PlaywrightTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eikbo\\Skrivebord\\BDSA\\BDSA_PROJECT\\PlaywrightTests\\PlaywrightTests.csproj",
+        "projectUniqueName": "c:\\Users\\Bruger\\Desktop\\BDSA\\BDSA_PROJECT\\PlaywrightTests\\PlaywrightTests.csproj",
         "projectName": "PlaywrightTests",
-        "projectPath": "C:\\Users\\eikbo\\Skrivebord\\BDSA\\BDSA_PROJECT\\PlaywrightTests\\PlaywrightTests.csproj",
-        "packagesPath": "C:\\Users\\eikbo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eikbo\\Skrivebord\\BDSA\\BDSA_PROJECT\\PlaywrightTests\\obj\\",
+        "projectPath": "c:\\Users\\Bruger\\Desktop\\BDSA\\BDSA_PROJECT\\PlaywrightTests\\PlaywrightTests.csproj",
+        "packagesPath": "C:\\Users\\Bruger\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\Bruger\\Desktop\\BDSA\\BDSA_PROJECT\\PlaywrightTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\eikbo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Bruger\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -74,26 +74,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.11, 6.0.11]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.11, 6.0.11]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.11, 6.0.11]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
