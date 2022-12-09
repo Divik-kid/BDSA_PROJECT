@@ -28,7 +28,6 @@ public class GitFileAnalyzer{
         //select path, Count(path) ... group by path
         var r = tempList.GroupBy(c => c.Path).Select(s => new { path = s.Key, count = s.Count()});
         foreach(var p in r){
-            Console.WriteLine("path: " + p.path + " count: " + p.count);
             returnList.Add(new FileAndNrChanges(p.path, p.count));
         }
 
